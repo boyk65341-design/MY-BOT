@@ -1,0 +1,6 @@
+{
+  "name": "Friendly AI Assistant",
+  "description": "Your personal AI girlfriend, tech expert, and mentor for learning video editing, AI art, coding, and ethical hacking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
